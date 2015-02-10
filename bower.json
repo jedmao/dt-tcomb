@@ -1,0 +1,7 @@
+{
+  "name": "dt-tcomb",
+  "version": "0.4.0",
+  "ignore": [
+    "**/.*"
+  ]
+}
